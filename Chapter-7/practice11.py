@@ -11,7 +11,7 @@ def countVowConso(userInput):
             else:
                 countConsonants += 1
 
-    return countVowels, countConsonants   # <-- this was missing
+    return countVowels, countConsonants  
 
 
 # Function Call                
