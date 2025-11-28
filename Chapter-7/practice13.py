@@ -4,3 +4,11 @@ def full_name(fname, lname):
     return f"{fname} {lname}"
 
 print(full_name("Payal", "Kumari")) 
+
+
+
+# Write a program with a local variable score inside a function and a global one outside.
+
+def show_score():
+    score = 90  
+    return f"Local Score: {score}"

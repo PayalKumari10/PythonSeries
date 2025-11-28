@@ -11,3 +11,11 @@ def message(text="Keep Learning!"):
     return text
 print(message())
 print(message("Stay Positive!"))
+
+
+# Create a function login(username, password="1234") that prints the credentials.
+
+def login(username, password="1234"):
+    return f"Username: {username}, Password: {password}"
+print(login("user1"))
+print(login("user2", "abcd"))
