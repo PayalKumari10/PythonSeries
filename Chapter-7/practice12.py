@@ -2,5 +2,5 @@
 
 def convert_to_upper(word):
     return word.upper()
-#Example usage:
-print(convert_to_upper("hello"))  # Output: "HELLO"
+
+print(convert_to_upper("hello")) 
