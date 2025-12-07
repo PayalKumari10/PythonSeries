@@ -1,3 +1,6 @@
-Kafi sahi se Python Sikh rahe hai. Maja aaraha hai 
+All SetKafi sahi se Python Sikh rahe hai. Maja aaraha hai 
+File handling bhi seekh liya hai. 
+Ab hum practice karenge. 
+All SetKafi sahi se Python Sikh rahe hai. Maja aaraha hai 
 File handling bhi seekh liya hai. 
 Ab hum practice karenge. 
