@@ -12,4 +12,6 @@ with open("hello.txt", "w", encoding="utf-8") as f:
     print("Output of write method:", lines)
 
 
-os.rename("Saumya.txt", "Payal.txt")
+# os.rename("Saumya.txt", "Payal.txt")
+
+os.remove("Payal.txt")
