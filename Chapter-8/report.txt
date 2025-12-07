@@ -1,0 +1,3 @@
+Kafi sahi se Python Sikh rahe hai. Maja aaraha hai 
+File handling bhi seekh liya hai. 
+Ab hum practice karenge. 
