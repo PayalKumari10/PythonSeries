@@ -4,6 +4,9 @@ class Vehicle:
     petrolOrDisel="petrol" #attributes
     mileage="20"    #attributes
 
+    def start():  #methods
+        print("When you press clutch and acclerator then vehicle is start")
+
 #object creation
 car=Vehicle()
 print(car.color)
